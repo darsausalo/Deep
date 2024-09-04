@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Deep/UI/HUD/HUDStyles.uss?fileID=7433441132597879392&amp;guid=385ad6f2d6f881546864e9511f04c049&amp;type=3#HUDStyles" />
+    <ui:VisualElement name="Root" picking-mode="Ignore" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0);">
+        <ui:VisualElement name="V" class="Crosshair" style="flex-grow: 0; background-color: rgb(255, 255, 255); width: 1px; height: 20px;" />
+        <ui:VisualElement name="H" class="Crosshair" style="flex-grow: 0; background-color: rgb(255, 255, 255); width: 20px; height: 1px;" />
+    </ui:VisualElement>
+</ui:UXML>

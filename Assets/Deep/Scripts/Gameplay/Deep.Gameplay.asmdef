@@ -1,0 +1,32 @@
+{
+    "name": "Deep.Gameplay",
+    "rootNamespace": "Deep.Gameplay",
+    "references": [
+        "Unity.Entities",
+        "Unity.Collections",
+        "Unity.Mathematics",
+        "Unity.Mathematics.Extensions",
+        "Unity.Transforms",
+        "Unity.Entities.Hybrid",
+        "Unity.Entities.Graphics",
+        "Unity.Physics",
+        "Unity.Scenes",
+        "Unity.NetCode",
+        "Unity.Networking.Transport",
+        "Unity.NetCode.Physics",
+        "Unity.Burst",
+        "Unity.Multiplayer.Playmode",
+        "Unity.CharacterController",
+        "Deep.Input",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Deep.Authoring",
+    "rootNamespace": "Deep.Authoring",
+    "references": [
+        "Deep.Gameplay",
+        "Unity.Entities",
+        "Unity.Collections",
+        "Unity.Mathematics",
+        "Unity.Mathematics.Extensions",
+        "Unity.Transforms",
+        "Unity.Entities.Hybrid",
+        "Unity.Entities.Graphics",
+        "Unity.Physics",
+        "Unity.Scenes",
+        "Unity.NetCode",
+        "Unity.Networking.Transport",
+        "Unity.NetCode.Physics",
+        "UnityEngine.UI",
+        "UnityEditor.UI",
+        "Unity.CharacterController",
+        "Unity.Physics.Hybrid"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
